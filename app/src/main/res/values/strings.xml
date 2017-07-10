@@ -10,4 +10,8 @@
     <string name="menu_edit">Edit</string>
     <string name="menu_delete">Delete</string>
     <string name="nombre_persona">Omar Hidrogo</string>
+
+    <string name="menu_view">View image</string>
+
+    <string name="menu_view_detail">View Image Detail</string>
 </resources>
