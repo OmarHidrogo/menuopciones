@@ -14,4 +14,6 @@
     <string name="menu_view">View image</string>
 
     <string name="menu_view_detail">View Image Detail</string>
+
+    <string name="refresh">Refresh</string>
 </resources>

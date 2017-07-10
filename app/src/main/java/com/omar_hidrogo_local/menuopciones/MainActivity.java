@@ -46,6 +46,9 @@ public class MainActivity extends AppCompatActivity {
                 Intent o = new Intent(this, Activity_Settings.class);
                 startActivity(o);
                 break;
+            case R.id.mRefresh:
+                Toast.makeText(this, getResources().getString(R.string.refresh),Toast.LENGTH_SHORT).show();
+                break;
         }
 
 
